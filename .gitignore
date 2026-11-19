@@ -1,0 +1,14 @@
+# Java compiled files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Build files
+target/
+out/
+build/
+
+# Temporary files
+*.log
