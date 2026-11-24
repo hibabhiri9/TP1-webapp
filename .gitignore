@@ -12,3 +12,7 @@ build/
 
 # Temporary files
 *.log
+
+# documentation
+*.pdf
+*.dox
